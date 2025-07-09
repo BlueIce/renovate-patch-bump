@@ -1,20 +1,19 @@
 <project>
-    <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.5.2</version>
-    </parent>
-
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.example.app</groupId>
     <artifactId>my-app</artifactId>
-    <version>6.1.99</version>
+    <version>1.2.99</version>
 
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
             <version>5.13.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.assertj</groupId>
+            <artifactId>assertj-core</artifactId>
+            <version>3.27.2</version>
         </dependency>
     </dependencies>
 </project>
