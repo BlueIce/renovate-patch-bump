@@ -6,5 +6,6 @@
       "groupName": "dependency-patches"
     }
   ],
-  "bumpVersion": "patch"
+  "bumpVersion": "patch",
+  "prHourlyLimit": 20
 }
